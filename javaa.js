@@ -29,6 +29,7 @@ const checkwin =()=>{
     })
 }
 
+// add comment
 // gamelogic
 let boxes = document.getElementsByClassName("box");
 Array.from(boxes).forEach(element =>{
